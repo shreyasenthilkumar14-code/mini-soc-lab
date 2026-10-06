@@ -1,0 +1,24 @@
+# Node
+node_modules/
+dashboard/node_modules/
+
+# Vite
+dashboard/dist/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Environment variables
+.env
+.env.*
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/

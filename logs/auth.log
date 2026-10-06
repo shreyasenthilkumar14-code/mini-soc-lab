@@ -1,0 +1,13 @@
+Oct 01 10:01:12 server sshd[1201]: Accepted password for shreya from 192.168.1.10 port 52144 ssh2
+Oct 01 10:03:44 server sshd[1208]: Failed password for invalid user admin from 185.220.101.5 port 44231 ssh2
+Oct 01 10:03:45 server sshd[1209]: Failed password for invalid user admin from 185.220.101.5 port 44232 ssh2
+Oct 01 10:03:46 server sshd[1210]: Failed password for invalid user admin from 185.220.101.5 port 44233 ssh2
+Oct 01 10:03:47 server sshd[1211]: Failed password for invalid user admin from 185.220.101.5 port 44234 ssh2
+Oct 01 10:03:48 server sshd[1212]: Failed password for invalid user admin from 185.220.101.5 port 44235 ssh2
+Oct 01 10:05:22 server sshd[1220]: Accepted password for shreya from 192.168.1.10 port 52201 ssh2
+Oct 01 10:04:12 server sshd[1215]: Accepted password for admin from 185.220.101.5 port 44321 ssh2
+Oct 01 10:04:15 server sshd[1216]: session opened for user admin
+Oct 01 10:10:21 server sudo: shreya : TTY=ttys001 ; PWD=/home/shreya ; USER=root ; COMMAND=/usr/bin/cat /etc/shadow
+Oct 01 10:10:22 server sudo: shreya : TTY=ttys001 ; PWD=/home/shreya ; USER=root ; COMMAND=/usr/bin/passwd
+Oct 01 10:15:42 server audit: USER=shreya ACTION=MODIFY FILE=/etc/passwd
+Oct 01 10:15:43 server audit: USER=shreya ACTION=MODIFY FILE=/etc/ssh/sshd_config
