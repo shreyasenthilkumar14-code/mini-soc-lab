@@ -52,8 +52,8 @@ This project simulates security events locally and demonstrates core defensive s
       Severity / Filters          Status Workflow
                                   Open → Investigating
                                   → Resolved
-```text
 
+ ```
 ### Dashboard screenshots
 
 
