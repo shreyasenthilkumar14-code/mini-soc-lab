@@ -57,6 +57,14 @@ This project simulates security events locally and demonstrates core defensive s
 ### Dashboard screenshots
 ![Mini SOC Dashboard](screenshots/dashboard.png)
 
+### Alert Investigation
+
+![Alert Investigation](screenshots/investigation.png)
+
+### Incident Status Workflow
+
+![Incident Status Workflow](screenshots/incident-status.png)
+
 
 
 ## Detection Rules
