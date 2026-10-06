@@ -68,7 +68,6 @@ This project simulates security events locally and demonstrates core defensive s
 | Privileged command execution | `sudo` event using `USER=root` | High | Verify whether privileged activity was authorized |
 | Sensitive file modification | Modification of `/etc/passwd`, `/etc/shadow`, or `/etc/ssh/sshd_config` | High | Verify whether the modification was authorized |
 
-
 ## Incident Investigation
 
 The dashboard provides an investigation view containing:
